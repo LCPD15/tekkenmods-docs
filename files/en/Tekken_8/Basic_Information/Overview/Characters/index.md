@@ -48,3 +48,4 @@ The following table provides an overview of character IDs for the characters in 
 | 121          | XXE          | Devil Jin (Jin's voice) | No       |
 | 122          | XXF          | Tekken Monk             | No       |
 | 123          | XXG          | Seiryu                  | No       |
+| 36           | OKM          | Clive                   | Yes      |
